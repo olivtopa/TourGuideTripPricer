@@ -7,4 +7,5 @@ Returns a list of provider or a provider name.
  
  EndPoint getProviderName:
  http://localhost:8084/getProviderName?apiKey=test-server-api-key&adult=3
+
  
